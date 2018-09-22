@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Title" parent="android:style/Theme">
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:fontFamily">Arial</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="LocationDistance" parent="android:style/Theme">
+        <item name="android:textColorPrimary">#FF00FF</item>
+        <item name="android:fontFamily">Arial</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="Button" parent="android:style/Theme">
+        <item name="android:textColorPrimary">#008000</item>
+        <item name="android:fontFamily">Arial</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>
